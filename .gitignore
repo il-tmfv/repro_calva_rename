@@ -1,0 +1,4 @@
+!.lsp/
+.lsp/.cache
+.cpcache
+target

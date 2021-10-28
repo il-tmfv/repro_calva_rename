@@ -1,0 +1,2 @@
+{:source-paths #{"clojure/src/clj"
+                 "clojure/src/cljs"}}
